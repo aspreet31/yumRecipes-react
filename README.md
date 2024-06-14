@@ -36,11 +36,15 @@ The application will typically open in your default web browser at http://localh
 ### Home Page
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/79a3ebf1-f117-4032-a87f-c1a9c7970346)
 
+
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/d540bc2a-8878-4acc-ad7e-6c7c485d4c4c)
+
 
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/eb53861e-775d-44ae-be39-3afe90bd3e45)
 
+
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/a372b3f4-c33f-49e3-8729-49f854fd6aba)
+
 
 ### Search Feed
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/6399d16c-dfaa-48d4-aca0-566b799f3145)
@@ -48,6 +52,7 @@ The application will typically open in your default web browser at http://localh
 
 ### Health preference (Dairy-free)
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/8375538c-4bce-4930-9eb5-dfbb293dbd91)
+
 
 ### Recipe Detail
 ![image](https://github.com/aspreet31/yumRecipes-react/assets/103019348/79545bda-f963-47b3-b654-22d67fd66b8e)
