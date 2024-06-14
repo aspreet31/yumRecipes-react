@@ -1,4 +1,4 @@
-# VidStream React.js Application
+# YumRecipes React.js Application
 This repository holds the code for YumRecipes, a user-friendly recipe search application built with **ReactJS** , **Material UI** and **Edamam API**.
 
 ## Key Features:
