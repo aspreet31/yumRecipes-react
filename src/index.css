@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.box-search{
+  display: "flex";
+  margin-top:'20px';
+  justify-content:"center";
+  align-items:"center";
+  flex-direction: "column"
+}
+.search-bar{
+  border:none;
+  outline:none;
+  width:350px;
+}
+.btn{
+  font-weight: bold !important;
+}
+
+.btn:hover {
+  background-color: #ED200D !important;
+  color: white !important;
+}
+.btn:hover span{
+  color: white !important;
+}
+
+.btnDietLabels{
+  color:white !important;
+  background-color: #d50000 !important;
+  border-radius: 8px;
+  margin-left: 5px !important;
+  margin-top: 5px !important;
+}
+.card-hover:hover{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
