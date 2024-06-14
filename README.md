@@ -2,11 +2,11 @@
 This repository holds the code for YumRecipes, a user-friendly recipe search application built with **ReactJS** , **Material UI** and **Edamam API**.
 
 ## Key Features:
-Search Recipes
-Browse Categories Acc. to:
-MealType 
-Cuisine
-Health preference 
+### Search Recipes
+### Browse Categories Acc. to:
+### MealType 
+### Cuisine
+### Health preference 
 
 ### Getting Started:
 **Prerequisites:**
@@ -21,7 +21,7 @@ git clone https://github.com/aspreet31/yumRecipes-react.git
 
 Navigate to the project directory:
 
-cd vidStream
+cd yumRecipes-react
 
 Install project dependencies: npm install (or yarn install)
 
